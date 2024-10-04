@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitesh Paudel</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niteshpdl" alt="niteshpdl" /></a> </p>
-
 - 🔭 I’m currently working on **building an e-commerce website**
 
 - 🌱 I’m currently learning **Django web framework**
