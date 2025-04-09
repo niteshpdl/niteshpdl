@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/_niteshpaudel" target="blank"><img src="https://img.shields.io/twitter/follow/_niteshpaudel?logo=twitter&style=for-the-badge" alt="_niteshpaudel" /></a> </p>
 
-- 🔭 I’m currently working on **building an e-commerce website**
+- 🔭 I’m currently working on **engineering resource sharing platfoem with chatbot**
 
 - 🌱 I’m currently learning **Django web framework**
 
